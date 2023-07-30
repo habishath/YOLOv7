@@ -1,2 +1,5 @@
-# YOLOv7
-fine-tune YOLO v7 model
+YOLOv7, an unrivaled object detection algorithm, achieves high-speed accuracy ranging from 5 FPS to 160 FPS. Excelling with a 56.8% AP accuracy for real-time object detection at 30 FPS or higher on GPU V100, YOLOv7 outperforms competitors and other YOLO versions. Optimized for typical GPU computing, YOLOv7-tiny caters to edge GPU, providing lightweight processing on mobile devices and distributed edge servers.
+
+As a significant advancement in computer vision and machine learning, YOLOv7's affordability for training on small datasets without pre-trained weights sets a new bar for object detection. The popular official paper, "YOLOv7: Trainable Bag-of-Freebies Sets New State-of-the-Art for Real-Time Object Detectors," was published in July 2022, and with 4.3k stars awarded to the official GitHub repository within one month of the code's GPL-3.0 license release.
+
+By the end of this project you will be able to retrain YOLOv7 model with your custom dataset and make simple prediction on your own image.
